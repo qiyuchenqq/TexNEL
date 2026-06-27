@@ -1,6 +1,5 @@
-RunawayNEL
+TexNEL
 ===========
-[![QQ](https://qm.qq.com/q/lcC9ymwiSA)
 
 ## 本项目基于 [Codexus.OpenSDK](https://github.com/corpnetease/Codexus.OpenSDK) 以及 Codexus.Development.SDK 制作的第三方启动器
 
@@ -58,9 +57,9 @@ RunawayNEL
 2. 用户的数据或软件的数据在软件同级目录的 data 文件夹
 
 ### 项目结构
-- `Runaway` - 主项目（协议处理、管理器、事件处理）
-- `Runaway.Core` - 核心库（网易 API、工具类、加密）
-- `Runaway.IRC` - IRC 聊天系统（跨服聊天、TAB 列表、皮肤注入）
+- `Tex` - 主项目（协议处理、管理器、事件处理）
+- `Tex.Core` - 核心库（网易 API、工具类、加密）
+- `Tex.IRC` - IRC 聊天系统（跨服聊天、TAB 列表、皮肤注入）
 - `EastSide.UI` - 用户界面（Photino + Web 前端）
 
 ## 开源协议
