@@ -65,7 +65,7 @@ TexNEL
 ## 开源协议
 本项目遵循 **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)** 协议开源
 ```text
-RunawayNEL Copyright (C) 2026 FandMC Studio
+TexNEL Copyright (C) 2026 祁宇晨66
 本程序是自由软件，你可以重新发布或修改它，但必须：
 - 保留原始版权声明
 - 采用相同许可证分发
