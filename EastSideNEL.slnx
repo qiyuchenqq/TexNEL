@@ -1,6 +1,5 @@
 <Solution>
-  <Project Path="Runaway/Runaway.csproj" />
-  <Project Path="Runaway.Core/Runaway.Core.csproj" />
-  <Project Path="EastSide.UI/Runaway.UI.csproj" />
-  <Project Path="Runaway.IRC/Runaway.IRC.csproj" />
+  <Project Path="Tex/Tex.csproj" />
+  <Project Path="Tex.Core/Tex.Core.csproj" />
+  <Project Path="Tex.UI/Tex.UI.csproj" />
 </Solution>

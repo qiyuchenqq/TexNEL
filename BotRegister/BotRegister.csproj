@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EastSide.Core\EastSide.Core.csproj" />
+    <ProjectReference Include="..\Tex.Core\Tex.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
